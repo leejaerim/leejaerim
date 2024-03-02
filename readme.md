@@ -20,6 +20,6 @@
 
 ---
 
-- Notion : ![Notion](https://south-sunshine-1a6.notion.site/NotionBlog-18bfe37bb9b04e0e9b9f0126e13a9a67?pvs=4)
+- Notion : [Notion](https://south-sunshine-1a6.notion.site/NotionBlog-18bfe37bb9b04e0e9b9f0126e13a9a67?pvs=4)
 - Email : ljr6608@gmail.com
 
