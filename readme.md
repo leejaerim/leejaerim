@@ -13,9 +13,9 @@
 ### 기술 스택
 
 ---
-| Vue| React| Spring| Python | MySQL|Docker|
-|-----------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|-------|
-| <img src="images/Vue.svg" width="100" height="100"> | <img src="images/React.svg" width="100" height="100"> | <img src="images/Spring.svg" width="100" height="100"> | <img src="images/Python.svg" width="100" height="100"> | <img src="images/MySQL.svg" width="100" height="100"> |<img src="images/Docker.svg" width="100" height="100">|
+| Java                                                 | Spring                                               | React| Vue                                                 | Python | MySQL|Docker|
+|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|-------|
+| <img src="images/Java.svg" width="100" height="100"> | <img src="images/Spring.svg" width="100" height="100"> | <img src="images/React.svg" width="100" height="100"> | <img src="images/Vue.svg" width="100" height="100"> | <img src="images/Python.svg" width="100" height="100"> | <img src="images/MySQL.svg" width="100" height="100"> |<img src="images/Docker.svg" width="100" height="100">|
 
 ### 링크
 
